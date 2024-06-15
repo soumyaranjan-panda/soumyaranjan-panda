@@ -37,6 +37,9 @@
 
 
 <p align="center"><a href="#"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=soumyaranjan-panda&theme=algolia" alt="soumyaranjan-panda" /></a></p>
-<a href="#"><img alt="Soumrnjn's Github Stats:" src="https://github-readme-stats.vercel.app/api?username=soumyaranjan-panda&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px" width="400px"/></a>
-<a href="#"><img alt="soumrnjn's Top Languages:" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyaranjan-panda&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" width="400px"/></a>
+
+<p align="center">
+  <a href="#"><img alt="soumrnjn's Top Languages:" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyaranjan-panda&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" width="400px"/></a>
+  <a href="#"><img alt="Soumrnjn's Github Stats:" src="https://github-readme-stats.vercel.app/api?username=soumyaranjan-panda&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px" width="400px"/></a>
+</p>
 
